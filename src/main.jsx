@@ -4,12 +4,26 @@ import { createBrowserRouter, RouterProvider, Route, Link } from 'react-router-d
 import './index.css'
 import App from './App.jsx'
 import './index.css'
+import Member from './member.jsx'
+import Profile from './profile.jsx'
 
 const router = createBrowserRouter([
 
   {
     path: '/',
     element:<App/>
+
+  },
+
+  {
+    path: 'member',
+    element:<Member/>
+
+  },
+
+  {
+    path: 'profile',
+    element:<Profile/>
 
   },
 
