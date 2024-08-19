@@ -17,7 +17,7 @@ function Profile() {
                     </button></Link>
                 </div>     
             </div>'*/}
-            <div class="mt-10 flex justify-center items-center min-h-screen">
+            <div class=" flex justify-center items-center min-h-screen">
                 <div class="m-5 flex flex-col md:flex-row justify-between items-center bg-gray-800 rounded-3xl p-4 md:p-6 shadow-md w-[90%] md:w-[70%] h-auto md:h-[480px]">
                     <div id="profile" class="flex flex-col items-center bg-gray-900 flex-1 w-full sm:w-full md:max-w-[30%] h-auto md:h-[430px] p-4 rounded-2xl shadow-lg">
                         <img src="https://erp.mju.ac.th/picture/studentImg/66/6604101350.jpg" alt="Profile Image" class=" w-[200px] object-cover rounded-xl shadow-lg m-2"/>

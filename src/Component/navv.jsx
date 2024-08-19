@@ -11,7 +11,7 @@ function Navv() {
 
 
   return (
-    <nav className='fixed top-0 left-0 w-full font-monobg-white border-gray-200 dark:bg-gray-900 p-4 shadow-md z-50'>
+    <nav className=' w-full font-monobg-white border-gray-200 dark:bg-gray-900 p-4 shadow-md z-50'>
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto px-4">
             <Link to="/" class="flex items-center space-x-3 rtl:space-x-reverse">
                 <span class="ms-1 text-lg font-medium text-gray-700 hover:text-blue-600 md:ms-2 dark:text-gray-400 dark:hover:text-white" alt="Csmju home">Computer Science | MJU </span>

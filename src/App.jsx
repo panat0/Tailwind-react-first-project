@@ -13,7 +13,7 @@ function App() {
     <> 
         
         <Navv />
-        <header class="bg-center bg-no-repeat bg-[url('https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/428395299_873721081215815_6431220037437957079_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=azBpjVl5g9kQ7kNvgGHR-df&_nc_ht=scontent.fcnx4-1.fna&oh=00_AYDpTfNlw_vEhpSTjY66NF1C6dc3GADTNdOS3AR2aCVfHg&oe=66C236B4')] bg-gray-700 bg-blend-multiply">
+        <header class=" bg-center bg-no-repeat bg-[url('./Component/group.jpg')] bg-gray-700 bg-blend-multiply">
             <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
                 <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Welcome to the Alumni Directory CSMJU</h1>
                 <p class=" text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">ยินดีต้อนรับสู่ทำเนียบรุ่น CSMJU</p>
@@ -22,7 +22,7 @@ function App() {
             </div>
         </header>
 
-        <section class="bg-cover bg-gray-700 bg-blend-multiply">
+        <section class="bg-gradient-to-b from-gray-700 to-gray-700 bg-blend-multiply">
         <div class="p-2 flex justify-center">
           <div class=" w-full sm:w-2/3 md:w-2/3 lg:w-3/4 xl:w-4/5 ">
             <div class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-full dark:border-gray-700 dark:bg-gray-800 ">
